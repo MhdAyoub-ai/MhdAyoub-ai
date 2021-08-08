@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning statistics in order to further understand  what is under the hood of different machine learning algorithms
       as well as having more tool in my data toolbox, hoping I can bridge the gap between my practical knowledge and the theoritical one.
 - 💞️ I’m looking to collaborate on any exciting project that uses data to make real world impact
-- 📫  you can reach me on my email "muhammad.ayoub.official94@gmail.com"
+- 📫  you can reach me on my [LinkedIn](https://www.linkedin.com/in/muhammadayoub94/)
 
 <!---
 MhdAyoub-ai/MhdAyoub-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
